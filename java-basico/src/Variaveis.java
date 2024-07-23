@@ -11,6 +11,12 @@ public class Variaveis {
         float salario = 11.500F;
         double salario2 = 11.500;
         
+        //Variável de V ou F
+        boolean homem = true;
+
+        //Variável caractere
+        char sexo = 'M';
+
         //Constantes
         final double PI = 3.14;
     }
