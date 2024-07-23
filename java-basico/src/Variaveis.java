@@ -1,5 +1,17 @@
 public class Variaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
+        //Variável de inteiro
+        int idade = 20;
+
+        //Variável texto
+        String meuNome = "Rhuan Lino";
+
+        //Variáveis de ponto flutuante
+        float salario = 11.500F;
+        double salario2 = 11.500;
+        
+        //Constantes
+        final double PI = 3.14;
     }
 }
