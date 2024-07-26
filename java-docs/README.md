@@ -1,6 +1,6 @@
 # Java-Docs
 
-Arquivo .java com exemplo e modelo de para fazer documentação de códigos.
+Arquivo .java com exemplo e modelo de docs para fazer documentação de códigos.
 
 #### Comentário em linha
 
