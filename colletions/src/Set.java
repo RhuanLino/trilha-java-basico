@@ -13,5 +13,8 @@ public class Set {
         set.add("Charlie");
         set.add("Alex");
         System.out.println(set);
+
+        set.removeIf(s -> s.contains("B"));
+        System.out.println(set);
     }
 }
